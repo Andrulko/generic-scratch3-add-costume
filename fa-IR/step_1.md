@@ -1,17 +1,17 @@
-- With your sprite selected, click on the Costumes tab
+- با انتخاب شبح خود، بر روی زبانه لباس کلیک کنید
     
-    ![costumes tab](images/costumes_tab.png)
+    ![قسمت لباس](images/costumes_tab.png)
 
 - Click **Choose a Costume** and choose one of the five options From bottom to top they are:
     
-    1. Choose costume from library
-    2. Paint new costume
-    3. Use a random (surprise) costume
-    4. Upload costume from file
-    5. New costume from camera
+    1. لباس از کتابخانه انتخاب کنید
+    2. لباس جدید نقاشی کنید
+    3. از یک لباس (شبح) تصادفی استفاده کنید
+    4. آپلود لباس از فایل
+    5. لباس جدید از دوربین
     
-    ![choose location](images/choose_location.png)
+    ![انتخاب موقعیت مکانی](images/choose_location.png)
 
-- If you wish to delete the imported costume, select it and click on the small cross in the top right hand corner.
+- اگر می خواهید لباس وارد شده را حذف کنید، آن را انتخاب کنید و روی ضربدر کوچک در گوشه بالا سمت راست کلیک کنید.
     
-    ![delete costume](images/delete_costume.png)
+    ![لباس را حذف کنید](images/delete_costume.png)
